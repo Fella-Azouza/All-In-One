@@ -18,4 +18,11 @@ React JS - Node JS - SQLite
 3. Shopping Experience : Customers can browse products, add items to their cart, and make purchases seamlessly.
 4. Secure Payment : Integration with online payment systems for safe and secure transactions.
 5. Order Management : Tools for both customers and administrators to track and manage orders.
-6. Notifications and Confirmations : Automated emails and notifications for purchase confirmations and order updates.
+
+<p align="center">
+  <img width="347" alt="categories" src="https://github.com/user-attachments/assets/ba8ea931-025b-4727-b546-276d5443f9a9">
+  <img width="238" alt="shop" src="https://github.com/user-attachments/assets/320f6fd6-bad4-4dd4-a576-f2d840a49dd0">
+  <img width="236" alt="cards" src="https://github.com/user-attachments/assets/5386e693-e0f4-4d8c-bea8-ff3600a1fa37">
+</p>
+
+
