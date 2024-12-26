@@ -9,7 +9,7 @@
 ALL IN ONE is a web app designed for online clothing sales, providing a comprehensive platform that caters to both customers and administrators. This application offers an intuitive shopping experience for users to purchase clothing from the comfort of their homes, while also equipping administrators with tools for managing inventory and handling orders efficiently.
 
 <h3>Technologies Used : </h3>
-React JS - Node JS - SQLite
+React JS - Node JS - MySQL
 
 <h3>Main Functions :</h3>
 
